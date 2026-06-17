@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="44" viewBox="0 0 176 44" role="img" aria-label="Changelog Latest">
+  <rect width="176" height="44" rx="8" fill="#0a0a0a" stroke="#ffffff" stroke-width="1.25"/>
+  <line x1="98" y1="10" x2="98" y2="34" stroke="#525252" stroke-width="1"/>
+  <text x="49" y="27" text-anchor="middle" fill="#a3a3a3" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="600" letter-spacing="0.04em">CHANGELOG</text>
+  <text x="137" y="27" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" font-weight="600">Latest</text>
+</svg>

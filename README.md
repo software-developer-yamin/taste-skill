@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://tasteskill.dev" title="Visit tasteskill.dev">
-    <img src="assets/taste-skill-logo.png" alt="" width="52" height="52" valign="middle" />
-    <img src="https://img.shields.io/badge/tasteskill.dev-000000?style=for-the-badge&labelColor=0a0a0a&color=171717" alt="tasteskill.dev" height="56" valign="middle" />
+    <img src="assets/readme-buttons/btn-site.png" alt="Visit tasteskill.dev" height="72" />
   </a>
 </p>
 
@@ -34,15 +33,13 @@
 Portable **Agent Skills** that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes **image-generation skills** for reference boards (web, mobile, brand kits). Pair them with **ChatGPT Images** or similar generators, then hand the frames to Codex, Cursor, or Claude Code for implementation.
 
 <p align="center">
-  <a href="https://github.com/Leonxlnx/taste-skill/stargazers"><img src="https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=000000&color=404040" alt="GitHub stars" /></a>
+  <a href="LICENSE"><img src="assets/readme-buttons/btn-mit.png" alt="MIT License" height="44" /></a>
   &nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-404040?style=flat-square&labelColor=000000" alt="MIT License" /></a>
+  <a href="https://github.com/vercel-labs/agent-skills"><img src="assets/readme-buttons/btn-agent-skills.png" alt="Agent Skills compatible" height="44" /></a>
   &nbsp;
-  <a href="https://github.com/vercel-labs/agent-skills"><img src="https://img.shields.io/badge/Agent%20Skills-Compatible-404040?style=flat-square&labelColor=000000" alt="Agent Skills compatible" /></a>
+  <a href="#installing"><img src="assets/readme-buttons/btn-tools.png" alt="Codex, Cursor, Claude" height="44" /></a>
   &nbsp;
-  <a href="#installing"><img src="https://img.shields.io/badge/Cursor%20%C2%B7%20Codex%20%C2%B7%20Claude-737373?style=flat-square&label=Agents&labelColor=000000" alt="Supported agents" /></a>
-  &nbsp;
-  <a href="https://www.tasteskill.dev/changelog"><img src="https://img.shields.io/badge/Changelog-Latest-525252?style=flat-square&labelColor=000000" alt="Changelog" /></a>
+  <a href="https://www.tasteskill.dev/changelog"><img src="assets/readme-buttons/btn-changelog.png" alt="Changelog" height="44" /></a>
 </p>
 
 ## Disclaimer
