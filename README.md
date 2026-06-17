@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://tasteskill.dev" title="Visit tasteskill.dev">
-    <img src="assets/readme-buttons/btn-site.png" alt="Visit tasteskill.dev" height="72" />
+    <img src="assets/readme-buttons/btn-site.png" alt="Visit tasteskill.dev" height="56" />
   </a>
 </p>
 
@@ -33,13 +33,13 @@
 Portable **Agent Skills** that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs. This repo also includes **image-generation skills** for reference boards (web, mobile, brand kits). Pair them with **ChatGPT Images** or similar generators, then hand the frames to Codex, Cursor, or Claude Code for implementation.
 
 <p align="center">
-  <a href="LICENSE"><img src="assets/readme-buttons/btn-mit.png" alt="MIT License" height="44" /></a>
+  <a href="LICENSE"><img src="assets/readme-buttons/btn-mit.png" alt="MIT License" height="36" /></a>
   &nbsp;
-  <a href="https://github.com/vercel-labs/agent-skills"><img src="assets/readme-buttons/btn-agent-skills.png" alt="Agent Skills compatible" height="44" /></a>
+  <a href="https://github.com/vercel-labs/agent-skills"><img src="assets/readme-buttons/btn-agent-skills.png" alt="Agent Skills compatible" height="36" /></a>
   &nbsp;
-  <a href="#installing"><img src="assets/readme-buttons/btn-tools.png" alt="Codex, Cursor, Claude" height="44" /></a>
+  <a href="#installing"><img src="assets/readme-buttons/btn-tools.png" alt="Codex, Cursor, Claude" height="36" /></a>
   &nbsp;
-  <a href="https://www.tasteskill.dev/changelog"><img src="assets/readme-buttons/btn-changelog.png" alt="Changelog" height="44" /></a>
+  <a href="https://www.tasteskill.dev/changelog"><img src="assets/readme-buttons/btn-changelog.png" alt="Changelog" height="36" /></a>
 </p>
 
 ## Disclaimer

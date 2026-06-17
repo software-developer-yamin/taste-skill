@@ -2,31 +2,15 @@ import fs from "fs";
 import path from "path";
 import sharp from "sharp";
 
-const srcDir =
-  "C:/Users/User/.cursor/projects/c-Users-User-gemini-antigravity-scratch-antislopfrontend/assets";
+const srcDir = "C:/Users/User/Downloads";
 const outDir = path.join(process.cwd(), "assets/readme-buttons");
 
 const mapping = [
-  {
-    src: "c__Users_User_AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_ChatGPT_Image_Jun_17__2026__04_04_16_PM__1_-cd1f2343-f0ad-42c4-be8a-4853f58597ba.png",
-    out: "btn-site.png",
-  },
-  {
-    src: "c__Users_User_AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_ChatGPT_Image_Jun_17__2026__04_04_16_PM__2_-216a83ca-34bc-40e3-a894-1b4e8a86e57b.png",
-    out: "btn-mit.png",
-  },
-  {
-    src: "c__Users_User_AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_ChatGPT_Image_Jun_17__2026__04_04_17_PM__3_-1163397f-4ba6-41fe-8fae-cf15a0a80cfc.png",
-    out: "btn-agent-skills.png",
-  },
-  {
-    src: "c__Users_User_AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_ChatGPT_Image_Jun_17__2026__04_04_17_PM__4_-0ab1b875-ce91-44a3-a038-1b7de501acda.png",
-    out: "btn-tools.png",
-  },
-  {
-    src: "c__Users_User_AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_ChatGPT_Image_Jun_17__2026__04_04_20_PM__5_-b78bced2-f557-4e8a-83ed-c8bce8cf8995.png",
-    out: "btn-changelog.png",
-  },
+  { src: "ChatGPT Image Jun 17, 2026, 04_04_16 PM (1).png", out: "btn-site.png" },
+  { src: "ChatGPT Image Jun 17, 2026, 04_04_16 PM (2).png", out: "btn-mit.png" },
+  { src: "ChatGPT Image Jun 17, 2026, 04_04_17 PM (3).png", out: "btn-agent-skills.png" },
+  { src: "ChatGPT Image Jun 17, 2026, 04_04_17 PM (4).png", out: "btn-tools.png" },
+  { src: "ChatGPT Image Jun 17, 2026, 04_04_20 PM (5).png", out: "btn-changelog.png" },
 ];
 
 function isBackground(r, g, b, a, threshold = 28) {
